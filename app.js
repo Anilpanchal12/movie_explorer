@@ -127,7 +127,7 @@ app.get("/movie/:id", async (req, res) => {
 
         res.render("movie", {
             movie: movie.data,
-            cast: credits.data.cast.slice(0, 10),
+            cast: credits.data.cast,
             trailer,
             recommendations: recommendations.data.results
         });

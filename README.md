@@ -11,6 +11,9 @@
 
 </div>
 
+<p align="center">
+  <img src="dashboard.png" alt="Project Screenshot" width="800">
+</p>
 ---
 
 ## ✨ What is CineScope?
